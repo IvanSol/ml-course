@@ -18,9 +18,9 @@
 [WarmUp_test_W04]: https://forms.gle/
 [WarmUp_test_W05]: https://forms.gle/
 [WarmUp_test_W06]: https://forms.gle/
-[WarmUp_test_W07]: https://forms.gle/
-[WarmUp_test_W08]: https://forms.gle/
-[WarmUp_test_W09]: https://forms.gle/
+[WarmUp_test_W07]: https://forms.gle/K6JkTwgzj3mHcTL68
+[WarmUp_test_W08]: https://forms.gle/WQK1Kjm1btAtY4mcA
+[WarmUp_test_W09]: https://forms.gle/3KVPSqH4gNFLzqzR8
 [WarmUp_test_W10]: https://forms.gle/
 [WarmUp_test_W11]: https://forms.gle/
 
@@ -29,10 +29,10 @@
 [Slides_W03]: ../master/Class03_linear_classification/BKK.2025.ML.Class03.pdf
 [Slides_W04]: ../master/Class04_SVM/BKK.2025.ML.Class04.pdf
 [Slides_W05]: ../master/class05_.../BKK.2025.ML.Class05.pdf
-[Slides_W06]: ../master/class06_.../BKK.2025.ML.Class06.pdf
+[Slides_W06]: ../master/Class06_decision_trees/BKK.2025.ML.Class06.pdf
 [Slides_W07]: ../master/Class07_gradient_boosting/BKK.2025.ML.Class07.pdf
-[Slides_W08]: ../master/class08_.../BKK.2025.ML.Class08.pdf
-[Slides_W09]: ../master/class09_.../BKK.2025.ML.Class09.pdf
+[Slides_W08]: ../master/Class08_intro_to_DL/BKK.2025.ML.Class08.pdf
+[Slides_W09]: ../master/Class09_NN_regularization/BKK.2025.ML.Class09.pdf
 [Slides_W10]: ../master/class10_.../BKK.2025.ML.Class10.pdf
 [Slides_W11]: ../master/class11_.../BKK.2025.ML.Class11.pdf
 
@@ -43,11 +43,11 @@
 | 03     | Linear Classification  			    | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class03_linear_classification/Class03_logreg_intro_to_pytorch.ipynb) |    |     |
 | 04     | SVM & PCA             			    | [Slides][Slides_W04] | [Test][WarmUp_test_W03] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class04_SVM/Class04_SVM_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class04_SVM/Class04_pictures_svd.ipynb) | 10.10.2025 13:00 UTC+7 |
 | 05     | Classic CV                           | None                 | None                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class05_classic_CV/Class_05_classic_cv_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class05_classic_CV/Class_05_home_assignment_classification.ipynb) | 10.10.2025 13:00 UTC+7 |
-| 06     | Trees, Ensembles                     | TBD                  | None                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class06_decision_trees/Class06_decision_trees_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class06_decision_trees/Class06_ha_decision_tree.ipynb) | 13.10.2025 13:00 UTC+7 |
+| 06     | Trees, Ensembles                     | [Slides][Slides_W06] | None                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class06_decision_trees/Class06_decision_trees_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class06_decision_trees/Class06_ha_decision_tree.ipynb) | 13.10.2025 13:00 UTC+7 |
 | 07     | Gradient Boosting                    | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class07_gradient_boosting/Class07_gradient_boosting.ipynb) |   |   |
+| 08     | Bias/Variance, Intro to DL           | [Slides][Slides_W08] | [Test][WarmUp_test_W06] | None         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class08_intro_to_DL/Class08_nn_from_scratch.ipynb) (optional) | 18.10.2025 13:00 UTC+7 |
+| 09     | NN Regularization                    | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class09_NN_regularization/Class09_practice_pytorch_and_dataloaders.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class09_NN_regularization/Class09_hw_fmnist_overfitting.ipynb) | 15.10.2025 13:00 UTC+7  |
 <!---
-| 06     | Introduction to DL & PyTorch         | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | [Contest][ContestID_W06] |                        |
-| 07     | NN Regularization                    | [Slides][Slides_W07] | [Test][WarmUp_test_W07] | [Contest][ContestID_W07] | [Contest][ContestID_W07] |                        |
 | 08     | CNNs and Image Processing            | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | [Contest][ContestID_W08] | [Contest][ContestID_W08] |                        |
 | 09     | Unsupervised DL: VAE, C-VAE.         | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | [Contest][ContestID_W09] |                        |
 | 10     | Problems in modern Computer Vision   | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | [Contest][ContestID_W10] |                        |
