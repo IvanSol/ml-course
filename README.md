@@ -48,12 +48,12 @@
 | 08     | Bias/Variance, Intro to DL           | [Slides][Slides_W08] | [Test][WarmUp_test_W08] | None         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class08_intro_to_DL/Class08_nn_from_scratch.ipynb) (optional) | 18.10.2025 13:00 UTC+7 |
 | 09     | NN Regularization                    | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class09_NN_regularization/Class09_practice_pytorch_and_dataloaders.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class09_NN_regularization/Class09_hw_fmnist_overfitting.ipynb) | 15.10.2025 13:00 UTC+7  |
 | 10     | CNNs and Image Processing            | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class10_CNN/Class10_practice_cnns_and_image_classification_en.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class10_CNN/Class10_hw_dogs.ipynb) | 17.10.2025 13:00 UTC+7 |
+| 11     | Problems in modern Computer Vision   | TBD | [Test][WarmUp_test_W11] | [Contest][ContestID_W09] | [Contest][ContestID_W09] |                        |
+| 12     | Unsupervides learning, VAE           | TBD | None | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class12_Unsupervised/Class12_yolo_tsne_vae.ipynb) |  |  |
 <!---
-| 09     | Unsupervised DL: VAE, C-VAE.         | [Slides][Slides_W09] | [Test][WarmUp_test_W09] | [Contest][ContestID_W09] | [Contest][ContestID_W09] |                        |
-| 10     | Problems in modern Computer Vision   | [Slides][Slides_W10] | [Test][WarmUp_test_W10] | [Contest][ContestID_W10] | [Contest][ContestID_W10] |                        |
-| 11     | Generative Models Overview           | [Slides][Slides_W11] | None                    | None                     | None                     | None                   |
-| 12     | DL Model Optimization                | [Slides][Slides_W11] | None                    | None                     | None                     | None                   |
-| 12     | DL Model Deployment                  | [Slides][Slides_W11] | None                    | None                     | None                     | None                   |
+| 13     | Generative Models Overview           | [Slides][Slides_W13] | None                    | None                     | None                     | None                   |
+| 14     | DL Model Optimization & Deployment   | [Slides][Slides_W14] | None                    | None                     | None                     | None                   |
+| 15     | Exam                    			    | [Slides][Slides_W11] | None                    | None                     | None                     | None                   |
 --->
 
 <!--- Strict deadline for all home assignments is 24.09.2025  09:00 UTC+7. --->
